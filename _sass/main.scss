@@ -186,7 +186,7 @@ section h2 {
 
 section.success {
     color: #fff;
-    background: $primary-color;
+    background-image: radial-gradient(closest-side at 17% 191%, #0FA3B0 112%, #233C52 279%)
 }
 
 @media(max-width:767px) {
@@ -332,6 +332,7 @@ form .row:first-child .floating-label-form-group {
 
 footer {
     color: #fff;
+    background-image: radial-gradient(closest-side at 17% 191%, #0FA3B0 112%, #233C52 279%)
 }
 
 footer h3 {
@@ -340,7 +341,6 @@ footer h3 {
 
 footer .footer-above {
     padding-top: 50px;
-    background-color: $secondary-color;
 }
 
 footer .footer-col {
@@ -349,7 +349,6 @@ footer .footer-col {
 
 footer .footer-below {
     padding: 25px 0;
-    background-color: $secondary-dark;
 }
 
 .btn-social {
