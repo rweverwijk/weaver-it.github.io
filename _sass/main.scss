@@ -5,7 +5,7 @@
  */
 /*$primary-color: #18bc9c;*/
 $primary-color: #233C52;
-$secondary-color: #2c3e50;
+$secondary-color: #0FA3B0;
 $primary-rgb: 24,288,156,.9;
 $secondary-dark: #233140;
 body {
@@ -149,6 +149,10 @@ header .intro-text .skills {
 
     .navbar-fixed-top.navbar-shrink .navbar-brand {
         font-size: 1.5em;
+    }
+
+    .navbar-default .navbar-nav>li>a {
+        color: $secondary-color
     }
 }
 
