@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 2
+date: 2017-02-01
+img: npo-logo.png
+alt: image-alt
+project-date: April 2014
+client: NPO
+category: Data Engineer, Google Cloud
+description: In this project, the main assignment for Ron was to migrate the on-premise Hadoop cluster to the Google Cloud. The cluster was used to collect clickstream data from the NPO streaming platform. Collecting live data from video, radio and television streams. Based on the collected data we trained a recommendation engine to give a personal recommendation for the users of the platform.
+
+---

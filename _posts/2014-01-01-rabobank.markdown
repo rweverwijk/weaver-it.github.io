@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 4
+date: 2014-01-01
+img: rabobank-logo.png
+alt: image-alt
+project-date: April 2014
+client: Rabobank
+category: Hadoop, Data Engineer
+description: During this project, Ron did a lot of different proof of concepts to find where the bank could benefit from a Big Data solution. Together with people from the business, we investigated several domains and techniques for Natural Language Processing, fraud, privacy and many more.
+
+---

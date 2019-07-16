@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 3
+date: 2015-05-01
+img: politie-logo.png
+alt: image-alt
+project-date: May 2015
+client: Dutch Police
+category: Data Engineer, Graph expert
+description: As one of the first team members Ron was responsible for the setup of a Hadoop cluster of 240 nodes. We were able to start loading the raw data after a few weeks while in the meantime extending the cluster with more and more components. Ron helped a team working on a fluid criminal network analysis using his knowledge about graph technology.
+
+---

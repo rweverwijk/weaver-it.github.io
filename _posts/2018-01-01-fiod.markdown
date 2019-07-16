@@ -1,0 +1,12 @@
+---
+layout: default
+modal-id: 1
+date: 2018-01-01
+img: fiod_logo.png
+alt: image-alt
+project-date: Januari 2018 - September 2019
+client: FIOD
+category: Neo4j, Data Engineering
+description: The project started as the first IT project at the FIOD. Ron has build software to reduce the manual processing of data. Making sure there is a scalable application that can be used to combat financial fraud. His responsibility was to find the best architecture for the application, help building a CI/CD pipeline and above all implement a Neo4j graph model to investigate financial fraud.
+
+---
